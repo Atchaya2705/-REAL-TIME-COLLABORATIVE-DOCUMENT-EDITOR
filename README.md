@@ -28,3 +28,4 @@ This project is a foundation for a more advanced editor. Future improvements inc
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/01a7d097-059f-4391-aed9-20929d89479f)
